@@ -1,0 +1,4 @@
+client,completed_tasks,on_time_tasks,avg_delay_days,on_time_pct
+Acme Retail,6,3,0.7,50.0
+Bluepeak Logistics,5,4,0.6,80.0
+Northwind Traders,6,5,0.2,83.3

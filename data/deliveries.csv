@@ -1,0 +1,21 @@
+task_id,client,owner,task,due_date,completed_date,status
+1,Acme Retail,Sara Khan,Monthly sales report,2026-10-05,2026-10-04,completed
+2,Acme Retail,Sara Khan,Inventory reconciliation,2026-10-08,2026-10-09,completed
+3,Northwind Traders,Ali Raza,Vendor onboarding pack,2026-10-07,2026-10-07,completed
+4,Northwind Traders,Ali Raza,Shipment schedule update,2026-10-10,,in_progress
+5,Bluepeak Logistics,Sara Khan,Delivery route summary,2026-10-12,2026-10-11,completed
+6,Bluepeak Logistics,Ahmed Noor,Fleet status report,2026-10-09,2026-10-13,completed
+7,Acme Retail,Ahmed Noor,Quarterly ops review,2026-10-15,2026-10-14,completed
+8,Northwind Traders,Sara Khan,Client follow-up digest,2026-10-06,2026-10-06,completed
+9,Bluepeak Logistics,Ali Raza,Warehouse handover note,2026-10-11,,in_progress
+10,Acme Retail,Ali Raza,Returns processing log,2026-10-03,2026-10-05,completed
+11,Northwind Traders,Ahmed Noor,Compliance checklist,2026-10-14,2026-10-14,completed
+12,Bluepeak Logistics,Sara Khan,Weekly dispatch summary,2026-10-16,2026-10-16,completed
+13,Acme Retail,Sara Khan,Stock level alert report,2026-10-02,2026-10-02,completed
+14,Northwind Traders,Ali Raza,Supplier payment tracker,2026-10-13,2026-10-15,completed
+15,Bluepeak Logistics,Ahmed Noor,Driver shift roster,2026-10-08,2026-10-08,completed
+16,Acme Retail,Ahmed Noor,Promo campaign tracker,2026-10-17,,not_started
+17,Northwind Traders,Sara Khan,Returns follow-up,2026-10-04,2026-10-03,completed
+18,Bluepeak Logistics,Ali Raza,Monthly cost summary,2026-10-18,2026-10-18,completed
+19,Acme Retail,Ali Raza,Store opening checklist,2026-10-09,2026-10-12,completed
+20,Northwind Traders,Ahmed Noor,Delivery exception log,2026-10-05,2026-10-05,completed
